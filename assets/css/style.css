@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+.body {
+  font-family: "Open Sans";
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+#quienes-somos {
+  background-color: black;
+  color: white;
+}
+
+#destacados {
+  background-color: black;
+  color: white;
+}
+
+#contacto {
+  background-color: black;
+  color: white;
+}
+
+.custom-padding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.padding-card {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.footer {
+  font-family: "Open Sans";
+}
